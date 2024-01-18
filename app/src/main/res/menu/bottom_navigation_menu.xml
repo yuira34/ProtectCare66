@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemCheckIn"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Check In"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemHistory"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="History"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemProfile"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>

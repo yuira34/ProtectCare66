@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/check_in_layout.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/fragment_check_in.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/fragment_check_out.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/fragment_history.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/fragment_lobby.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/fragment_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/history_card.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/procare_item_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/layout/procare_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/yuira/AndroidStudioProjects/ProtectCare66/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
